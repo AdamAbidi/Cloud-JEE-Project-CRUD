@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>main</servlet-name>
+        <servlet-class>main</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>EtudServlet</servlet-name>
+        <servlet-class>EtudServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UnivServlet</servlet-name>
+        <servlet-class>UnivServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FoncServlet</servlet-name>
+        <servlet-class>FoncServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>main</servlet-name>
+        <url-pattern>/main</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>EtudServlet</servlet-name>
+        <url-pattern>/EtudServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UnivServlet</servlet-name>
+        <url-pattern>/UnivServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FoncServlet</servlet-name>
+        <url-pattern>/FoncServlet</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>Acceuil.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
