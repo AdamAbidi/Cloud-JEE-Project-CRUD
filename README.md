@@ -61,3 +61,6 @@ Delete administrative staff:
 Statistics :
 ![Stats](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/20.png)
 ![Stats](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/21.png)
+
+Conception & modelling :
+![DB](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/22.PNG)
