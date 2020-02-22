@@ -26,13 +26,26 @@ Home page :
 ![Home page](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/2.png)
 ![Home page](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/3.png)
 
-CRUD students :
+CRUD student :
+Create student
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/4.png)
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/5.png)
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/6.png)
+Edit student :
 ![Edit Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/7.png)
 ![Edit Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/8.png)
 ![Edit Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/9.png)
+Delete student :
 ![Delete Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/10.png)
 ![Delete Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/11.png)
+
+CRUD professor :
+Create professor:
+![Create Professor](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/12.png)
+Edit professor:
+![Edit Professor](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/13.png)
+![Edit Professor](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/14.png)
+Delete professor:
+![Delete Professor](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/15.png)
+
 
