@@ -49,3 +49,15 @@ Delete professor:
 ![Delete Professor](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/15.png)
 
 
+CRUD administrative staff :
+Create administrative staff:
+![Create Staff](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/16.png)
+Edit administrative staff:
+![Edit Staff](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/17.png)
+![Edit Staff](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/18.png)
+Delete administrative staff:
+![Delete Staff](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/19.png)
+
+Statistics :
+![Stats](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/20.png)
+![Stats](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/21.png)
