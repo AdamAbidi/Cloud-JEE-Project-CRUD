@@ -28,7 +28,7 @@ Each lot must offer at least the following set of features:
 ![Home page](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/3.png)
 
 ### CRUD student :
-#### Create student
+#### Create student :
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/4.png)
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/5.png)
 ![Create Student](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/6.png)
