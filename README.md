@@ -65,3 +65,7 @@ Each lot must offer at least the following set of features:
 
 ## Conception & modelling :
 ![DB](https://raw.githubusercontent.com/AdamAbidi/Cloud-JEE-Project-CRUD/master/Images/22.PNG)
+
+
+## Installation :
+npm install @adamabidi/cloud-jee-project-crud@1.0.0
